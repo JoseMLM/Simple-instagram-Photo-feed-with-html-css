@@ -1,0 +1,40 @@
+body {
+    background-color: grey
+}
+
+header {
+   background-color: white;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.contenedor {
+    width: 600px;
+    margin: 0 auto;
+}
+.contenedores {
+    background-color: white;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    width: 380px;
+    height: 450px;
+}
+
+.cabecera {
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+padding: 10px 10px;
+}
+
+span {
+    color: rgb(200, 200, 200);
+}
+
+img {
+    width: 100%;
+}
+
+
